@@ -1,7 +1,8 @@
 # Exercise 2 Readme
 
 This is an applicaton that is run in the command line. It uses pandas to filter flight information to calculate the average/max, distance/delays depending on the parameters.
-Basic Functions:
+
+##Basic Functions:
 
 **statistic:** Which measure do you want to computer? Maximum value (max) or average (avg)
 

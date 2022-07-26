@@ -4,10 +4,9 @@ This is the final project for the course where I was required to code an applica
 
 ## Visualizations
 
-Two types of visualizations:/n
+Two types of visualizations:
 
 **airlines** - A barplot that will show total number of miles each airline had flown on a given day (using plotnine library). This will be output as a png file
-/n
 **states** - A choropleth map of the U.S. that shows how many flights have departed from each state on a given day(using folium library). this will be output as an html file. 
 
 
